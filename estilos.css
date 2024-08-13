@@ -1,0 +1,16 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button{
+    font-size: 26px;
+}
+
+div{
+    padding: 5px;
+    background-color: green;
+}
